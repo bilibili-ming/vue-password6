@@ -1,13 +1,13 @@
 {
-  "name": "vue-password-input",
+  "name": "vue-password6",
   "description": "a vue component about password keybord",
   "version": "1.0.1",
-  "author": "豆浆 <303859490@qq.com>",
+  "author": "zg.minj@gmail.com",
   "license": "MIT",
   "main": "dist/vue-password-input.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pengxinlei/vue-password-input.git"
+    "url": "https://github.com/bilibili-ming/vue-password6.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
